@@ -11,7 +11,7 @@ Bootcamp GoStack GoBarber
 # Frontend
 
 *First get the server up and running by following theses steps :point_right:
-**<a href="https://github.com/Felibread/gobarber-backend">Backend</a>***
+**<a href="https://github.com/felipe-jm/gobarber-backend">Backend</a>***
 
 ## :computer: Run it!
 
@@ -27,7 +27,7 @@ yarn start
 
 ## Check out the mobile version! :pray:
 
-### <a href="https://github.com/Felibread/gobarber-mobile">Mobile</a>
+### <a href="https://github.com/felipe-jm/gobarber-mobile">Mobile</a>
 
 ---
 
